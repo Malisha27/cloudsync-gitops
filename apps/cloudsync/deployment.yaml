@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: cloudsync
-          image: 27malisha/cloudsync-app:552fc73
+          image: 27malisha/cloudsync-app:90c709d
           ports:
             - containerPort: 5000
           readinessProbe:
